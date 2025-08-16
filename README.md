@@ -1,7 +1,1 @@
 
-  <div>
-      <img src="https://magma.com/shared/_lWRsm6qpGgU3f3seucZBz" alt="dont mess with azumanga fans we dont even watch our own show">
-    </div>
-<div>
-                                             <p style="text-align: center;">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ to the piano, the world is a tiny melody ♪‧₊˚</p>
-</div>
